@@ -9,4 +9,6 @@
 - 当前赛季所有能够在游戏id中生成图标的符号
 - 生成符号所使用的`python`代码
 
+视频演示：[https://www.bilibili.com/video/BV1xR4y1x7BG]
+
 > made by bilibili:[不是吴昊的wh](https://space.bilibili.com/7405917)
