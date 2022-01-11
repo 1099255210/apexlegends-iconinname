@@ -1,5 +1,9 @@
 # Apex Legends icon in name
 
+**注意！该方法在游戏对局中已经失效！特殊符号将会变成方框！只有好友列表中有概率显示图标！**
+
+**Attention! This method is invalid now!**
+
 在你的`apex legends`游戏id里加入游戏中的符号。
 
 注意：请勿在游戏中滥用改名，尤其是改为对他人造成不良游戏体验的id，由此造成的封号等危害本项目概不负责。
